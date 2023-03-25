@@ -3,7 +3,7 @@ The code is based from the repo:
 
 https://github.com/amdegroot/ssd.pytorch
 
-References
+# References
 
     Wei Liu, et al. "SSD: Single Shot MultiBox Detector." ECCV2016.
     Original Implementation (CAFFE)
