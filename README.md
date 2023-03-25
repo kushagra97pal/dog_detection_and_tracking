@@ -1,5 +1,5 @@
 # dog_detection_and_tracking
-The code is based on the repository:
+The code is based on the repo:
 
 Link: https://github.com/amdegroot/ssd.pytorch
 
